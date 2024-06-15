@@ -42,7 +42,10 @@ This section focuses on loading documents from a website using WebBaseLoader. Th
     ```
     pip install -r requirements.txt
     ```
-4. After the dependencies are installed, you can run the project.
+4. After the dependencies are installed, you can run the project using :
+   ```
+   streamlit run app.py
+   ```
    
 ## Outcome
 ![image](https://github.com/GayaaniD/RAG-Project-with-Groq-Mistral/assets/125920863/2cb9c8f4-e707-4b77-93c0-a96b009eeac1)
